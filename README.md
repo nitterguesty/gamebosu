@@ -56,4 +56,4 @@ In order for the ruleset to correctly work, you'll need to download original gam
 
 This ruleset uses [Emux](https://github.com/Washi1337/Emux) by _Washi1337_ as its emulation core.
 
-Original idea of running a gameboy emulator on o!f : [osu-GameBoy](https://github.com/osu-Karaoke/osu-GameBoy)
+Original idea of running a gameboy emulator on of : [osu-GameBoy](https://github.com/osu-Karaoke/osu-GameBoy)
