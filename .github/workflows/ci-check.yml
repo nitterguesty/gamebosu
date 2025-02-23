@@ -24,5 +24,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: osu.Game.Rulesets.Gamebosu.dll
-          path: "osu.Game.Rulesets.Gamebosu/bin/Release/netstandard2.1"
+          path: "osu.Game.Rulesets.Gamebosu/bin/Release/net8.0"
           retention-days: 30
